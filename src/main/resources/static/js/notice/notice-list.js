@@ -1,7 +1,7 @@
 //230705 03, 0707 11
 let nowPage = 1;
 load(nowPage);
-
+//0710 테스팅
 function load(nowPage){
 	const searchFlag = document.querySelector(".search-select").value;
 	const searchValue = document.querySelector(".search-input").value;
